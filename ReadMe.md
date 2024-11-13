@@ -2,7 +2,9 @@
 
 This is an unbeatable TicTacToe game built as part of the CS50 AI Lab. The game leverages the Minimax algorithm, ensuring the AI opponent always plays optimally, making it impossible to defeat. Test your skills against this perfect AI and see if you can achieve a draw!
 
-![TicTacToe Preview](tictactoe.gif)
+<p style="text-align: center;">
+  <img src="tictactoe.gif" alt="TicTacToe Demo" />
+</p>
 
 
 ## Project Structure
